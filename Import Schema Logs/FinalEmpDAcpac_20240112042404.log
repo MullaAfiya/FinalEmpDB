@@ -1,0 +1,10 @@
+12-01-2024 21:54:04	This log contains information about the import schema operation into project 'FinalEmpDAcpac' on computer 'DESKTOP-JH9JP1C' by user 'Afiya'.
+12-01-2024 21:54:04	Deserializing model
+12-01-2024 21:54:04	Resolving model
+12-01-2024 21:54:04	Visiting imported model for types
+12-01-2024 21:54:05	Scanning project for duplicate elements
+12-01-2024 21:54:05	Finished duplicate element processing
+12-01-2024 21:54:05	Processing extra files
+12-01-2024 21:54:05	Finished importing Data-tier Application file.
+12-01-2024 21:54:05	A summary of the import was saved to the following location: C:\DotnetProjects\FinalEmpDAcpac\Import Schema Logs\FinalEmpDAcpac_20240112042404.log
+12-01-2024 21:54:05	Click Finish to continue...
